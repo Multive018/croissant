@@ -56,7 +56,7 @@ ul{
   background-color: bisque;
   color: #517c7e;
 }
-.uber-eats, .art-caffe, .croissant-link, .pastries-link, .skip-link, .recipe.link{
+.uber-eats, .art-caffe, .croissant-link, .pastries-link, .skip-link, .recipe-link{
   font-size: 13px;
 }
 @media (max-width: 800px){
@@ -79,7 +79,7 @@ ul{
   button{
     font-size: 10px!important;
   }
-  .uber-eats, .art-caffe, .croissant-link, .pastries-link, .skip-link, .recipe.link{
+  .uber-eats, .art-caffe, .croissant-link, .pastries-link, .skip-link, .recipe-link{
   font-size: 10px;
   }
   .heading{
