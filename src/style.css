@@ -77,6 +77,8 @@ ul{
   }
   .uber-eats, .art-caffe, .croissant-link, .pastries-link, .skip-link{
   font-size: 10px;
-}
-
+  }
+  .heading{
+    margin-top: 60px;
+  }
 }
