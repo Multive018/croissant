@@ -63,14 +63,14 @@ ul{
     font-size: 40px;
   }
   body{
-    font-size: 11px;
+    font-size: 12px;
     text-align: center;
   }
   .img-fluid{
     max-width: 350px;
   }
   .list-group-item{
-    font-size: 10px;
+    font-size: 11px;
   }
   button{
     font-size: 10px!important;
