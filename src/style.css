@@ -17,6 +17,7 @@ ul{
   list-style: none;
 }
 .heading{
+  margin-top: 60px;
   text-align: center;
 }
 .content{
