@@ -1,0 +1,82 @@
+body{
+  background-color: bisque;
+}
+h1{
+  text-align: center;
+  font-size: 60px;
+}
+a{
+  text-decoration: none;
+}
+button{
+  display: block!important;
+  margin: 0px auto!important;
+  font-size: 12px!important;
+}
+ul{
+  list-style: none;
+}
+.heading{
+  text-align: center;
+}
+.content{
+  display: block;
+  margin: 40px auto;
+  padding: 40px;
+  text-align: center;
+  border: 1px solid #517c7e;
+  border-radius: 5px;
+}
+.img-fluid{
+  width: 520px!important;
+  height: 470px!important;
+  margin: 20px;
+}
+.croissant-name{
+  text-align: center;
+  font-weight: bold;
+  font-family: cursive;
+  color: #517c7e;
+}
+.croissant-type{
+  text-align: none;
+}
+.ingredients{
+  margin: 20px;
+  font-size: 14px;
+  text-align: left;
+}
+.process{
+  margin: 20px;
+}
+.list-group-item, .process{
+  font-family: cursive;
+  border: none;
+  background-color: bisque;
+  color: #517c7e;
+}
+.uber-eats, .art-caffe, .croissant-link, .pastries-link, .skip-link{
+  font-size: 13px;
+}
+@media (max-width: 800px){
+  h1{
+    font-size: 40px;
+  }
+  body{
+    font-size: 11px;
+    text-align: center;
+  }
+  .img-fluid{
+    max-width: 350px;
+  }
+  .list-group-item{
+    font-size: 10px;
+  }
+  button{
+    font-size: 10px!important;
+  }
+  .uber-eats, .art-caffe, .croissant-link, .pastries-link, .skip-link{
+  font-size: 10px;
+}
+
+}
